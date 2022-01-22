@@ -2,7 +2,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=loaf-scripts&theme=github_dark" alt="GitHub Stats"/>
   <br>
   <a href="https://store.loaf-scripts.com/">
-    <img src="https://dunb17ur4ymx4.cloudfront.net/webstore/logos/3abb800c9903d7ba189328c8f520e76c96bf35ba.png" alt="Webstore"/>
+    <img src="https://i.ibb.co/zs3z2fr/logo-text-2.jpg" alt="Webstore" width="300"/>
   </a>
 </p>
 
