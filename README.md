@@ -4,6 +4,9 @@
   <a href="https://store.loaf-scripts.com/">
     <img src="https://i.ibb.co/zs3z2fr/logo-text-2.jpg" alt="Webstore" width="100"/>
   </a>
+  <a href="https://discord.com/invite/4dUvf34">
+    <img src="https://i.ibb.co/Rg03rFf/discord.png" alt="Discord server" width="100"/>
+  </a>
 </p>
 
 <!--
